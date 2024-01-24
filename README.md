@@ -1,6 +1,6 @@
 ## Hi, My Name is Ryan Zielke 👋
 
-By day I am an Technical Enterprise Architect for Edward Jones.  By night I like to program different projects and 2D Retro Game.
+By day, I am an Technical Enterprise Architect for Edward Jones.  By night, I like to program different projects and 2D Retro Game.
 <!--
 **NeoAlchemy/NeoAlchemy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
